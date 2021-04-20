@@ -1,0 +1,20 @@
+ESP:
+    - Infos
+    - Firmware flash
+    - Konfiguration
+Server:
+    -Konfiguration
+    - Seite
+        - Graphen
+        - Settings
+            - handle root
+        - handle not found
+    - NTP
+Communication:
+    - funktionen
+        - rec
+        - parse
+        - Handler
+        - clear first
+        - sendMessage
+    - befehle

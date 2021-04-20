@@ -1,0 +1,142 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "/Users/mikey/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.1/cores/esp8266"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "/Users/mikey/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.1/variants/generic"
+  },
+  {
+    "Sourcefile": "/Users/mikey/Nextcloud/6.Semester/Projekt/server_esp/build/sketch/server_esp.ino.cpp",
+    "Include": "ESP8266WiFi.h",
+    "Includepath": "/Users/mikey/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.1/libraries/ESP8266WiFi/src"
+  },
+  {
+    "Sourcefile": "/Users/mikey/Nextcloud/6.Semester/Projekt/server_esp/build/sketch/server_esp.ino.cpp",
+    "Include": "ESP8266WebServer.h",
+    "Includepath": "/Users/mikey/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.1/libraries/ESP8266WebServer/src"
+  },
+  {
+    "Sourcefile": "/Users/mikey/Nextcloud/6.Semester/Projekt/server_esp/build/sketch/server_esp.ino.cpp",
+    "Include": "TimeLib.h",
+    "Includepath": "/Users/mikey/Documents/Arduino/libraries/Time"
+  },
+  {
+    "Sourcefile": "/Users/mikey/Nextcloud/6.Semester/Projekt/server_esp/build/sketch/server_esp.ino.cpp",
+    "Include": "NtpClientLib.h",
+    "Includepath": "/Users/mikey/Documents/Arduino/libraries/NtpClientLib/src"
+  },
+  {
+    "Sourcefile": "/Users/mikey/Nextcloud/6.Semester/Projekt/server_esp/build/sketch/server_esp.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/mikey/Nextcloud/6.Semester/Projekt/server_esp/build/sketch/ArdFuncs.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/mikey/Nextcloud/6.Semester/Projekt/server_esp/build/sketch/serialComm.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/mikey/Nextcloud/6.Semester/Projekt/server_esp/build/sketch/webHandler.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/mikey/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.1/libraries/ESP8266WiFi/src/ESP8266WiFi.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/mikey/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.1/libraries/ESP8266WiFi/src/ESP8266WiFiAP.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/mikey/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.1/libraries/ESP8266WiFi/src/ESP8266WiFiGeneric.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/mikey/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.1/libraries/ESP8266WiFi/src/ESP8266WiFiMulti.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/mikey/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.1/libraries/ESP8266WiFi/src/ESP8266WiFiSTA.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/mikey/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.1/libraries/ESP8266WiFi/src/ESP8266WiFiScan.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/mikey/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.1/libraries/ESP8266WiFi/src/WiFiClient.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/mikey/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.1/libraries/ESP8266WiFi/src/WiFiClientSecure.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/mikey/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.1/libraries/ESP8266WiFi/src/WiFiServer.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/mikey/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.1/libraries/ESP8266WiFi/src/WiFiServerSecure.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/mikey/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.1/libraries/ESP8266WiFi/src/WiFiUdp.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/mikey/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.1/libraries/ESP8266WebServer/src/ESP8266WebServer.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/mikey/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.1/libraries/ESP8266WebServer/src/ESP8266WebServerSecure.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/mikey/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.1/libraries/ESP8266WebServer/src/Parsing.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/mikey/Library/Arduino15/packages/esp8266/hardware/esp8266/2.4.1/libraries/ESP8266WebServer/src/detail/mimetable.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/mikey/Documents/Arduino/libraries/Time/DateStrings.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/mikey/Documents/Arduino/libraries/Time/Time.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/mikey/Documents/Arduino/libraries/NtpClientLib/src/NTPClientLib.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]

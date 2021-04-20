@@ -1,0 +1,1425 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.7.29)  1 AUG 2018 10:32
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/mikey/Nextcloud/6.Semester/Projekt/documentation/doc.tex
+(/Users/mikey/Nextcloud/6.Semester/Projekt/documentation/doc.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2018/03/04 v3.11 programmable bibliographies (PK/MW)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count88
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count89
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/local/texlive/2018/texmf-dist/tex/generic/xstring/xstring.tex
+\@xs@message=\write3
+\integerpart=\count90
+\decimalpart=\count91
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+\c@tabx@nest=\count92
+\c@listtotal=\count93
+\c@listcount=\count94
+\c@liststart=\count95
+\c@liststop=\count96
+\c@citecount=\count97
+\c@citetotal=\count98
+\c@multicitecount=\count99
+\c@multicitetotal=\count100
+\c@instcount=\count101
+\c@maxnames=\count102
+\c@minnames=\count103
+\c@maxitems=\count104
+\c@minitems=\count105
+\c@citecounter=\count106
+\c@savedcitecounter=\count107
+\c@uniquelist=\count108
+\c@uniquename=\count109
+\c@refsection=\count110
+\c@refsegment=\count111
+\c@maxextratitle=\count112
+\c@maxextratitleyear=\count113
+\c@maxextradate=\count114
+\c@maxextraalpha=\count115
+\c@abbrvpenalty=\count116
+\c@highnamepenalty=\count117
+\c@lownamepenalty=\count118
+\c@maxparens=\count119
+\c@parenlevel=\count120
+\blx@tempcnta=\count121
+\blx@tempcntb=\count122
+\blx@tempcntc=\count123
+\blx@maxsection=\count124
+\blx@maxsegment@0=\count125
+\blx@notetype=\count126
+\blx@parenlevel@text=\count127
+\blx@parenlevel@foot=\count128
+\blx@sectionciteorder@0=\count129
+\labelnumberwidth=\skip43
+\labelalphawidth=\skip44
+\biblabelsep=\skip45
+\bibitemsep=\skip46
+\bibnamesep=\skip47
+\bibinitsep=\skip48
+\bibparsep=\skip49
+\bibhang=\skip50
+\blx@bcfin=\read1
+\blx@bcfout=\write4
+\c@mincomprange=\count130
+\c@maxcomprange=\count131
+\c@mincompwidth=\count132
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2018/03/04 v3.11 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'alphabetic.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count133
+\c@savedafterword=\count134
+\c@annotator=\count135
+\c@savedannotator=\count136
+\c@author=\count137
+\c@savedauthor=\count138
+\c@bookauthor=\count139
+\c@savedbookauthor=\count140
+\c@commentator=\count141
+\c@savedcommentator=\count142
+\c@editor=\count143
+\c@savededitor=\count144
+\c@editora=\count145
+\c@savededitora=\count146
+\c@editorb=\count147
+\c@savededitorb=\count148
+\c@editorc=\count149
+\c@savededitorc=\count150
+\c@foreword=\count151
+\c@savedforeword=\count152
+\c@holder=\count153
+\c@savedholder=\count154
+\c@introduction=\count155
+\c@savedintroduction=\count156
+\c@namea=\count157
+\c@savednamea=\count158
+\c@nameb=\count159
+\c@savednameb=\count160
+\c@namec=\count161
+\c@savednamec=\count162
+\c@translator=\count163
+\c@savedtranslator=\count164
+\c@shortauthor=\count165
+\c@savedshortauthor=\count166
+\c@shorteditor=\count167
+\c@savedshorteditor=\count168
+\c@labelname=\count169
+\c@savedlabelname=\count170
+\c@institution=\count171
+\c@savedinstitution=\count172
+\c@lista=\count173
+\c@savedlista=\count174
+\c@listb=\count175
+\c@savedlistb=\count176
+\c@listc=\count177
+\c@savedlistc=\count178
+\c@listd=\count179
+\c@savedlistd=\count180
+\c@liste=\count181
+\c@savedliste=\count182
+\c@listf=\count183
+\c@savedlistf=\count184
+\c@location=\count185
+\c@savedlocation=\count186
+\c@organization=\count187
+\c@savedorganization=\count188
+\c@origlocation=\count189
+\c@savedoriglocation=\count190
+\c@origpublisher=\count191
+\c@savedorigpublisher=\count192
+\c@publisher=\count193
+\c@savedpublisher=\count194
+\c@language=\count195
+\c@savedlanguage=\count196
+\c@origlanguage=\count197
+\c@savedoriglanguage=\count198
+\c@pageref=\count199
+\c@savedpageref=\count266
+\shorthandwidth=\skip51
+\shortjournalwidth=\skip52
+\shortserieswidth=\skip53
+\shorttitlewidth=\skip54
+\shortauthorwidth=\skip55
+\shorteditorwidth=\skip56
+\locallabelnumberwidth=\skip57
+\locallabelalphawidth=\skip58
+\localshorthandwidth=\skip59
+\localshortjournalwidth=\skip60
+\localshortserieswidth=\skip61
+\localshorttitlewidth=\skip62
+\localshortauthorwidth=\skip63
+\localshorteditorwidth=\skip64
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2018/03/04 v3.11 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2018/03/04 v3.11 biblatex compatibility (PK/MW)
+\c@textcitecount=\count267
+\c@textcitetotal=\count268
+\c@textcitemaxnames=\count269
+\c@biburlnumpenalty=\count270
+\c@biburlucpenalty=\count271
+\c@biburllcpenalty=\count272
+\c@smartand=\count273
+)
+Package biblatex Info: Trying to load bibliography style 'alphabetic'...
+Package biblatex Info: ... file 'alphabetic.bbx' found.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/bbx/alphabetic.bbx
+File: alphabetic.bbx 2018/03/04 v3.11 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2018/03/04 v3.11 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count274
+\c@bbx:relatedtotal=\count275
+))
+Package biblatex Info: Trying to load citation style 'alphabetic'...
+Package biblatex Info: ... file 'alphabetic.cbx' found.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/cbx/alphabetic.cbx
+File: alphabetic.cbx 2018/03/04 v3.11 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2018/02/11 v5.2c context-sensitive quotations (JAW)
+\csq@reset=\count276
+\csq@gtype=\count277
+\csq@glevel=\count278
+\csq@qlevel=\count279
+\csq@maxlvl=\count280
+\csq@tshold=\count281
+\csq@ltx@everypar=\toks17
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2018/02/11 v5.2c csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+)
+Package csquotes Info: Option 'babel' depreciated.
+(csquotes)             Using 'autostyle'.
+Package csquotes Info: Enabling multilingual quotes.
+Package csquotes Info: Redefining alias 'german' -> 'german/quotes'.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2018/02/14 3.18 The Babel package
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2018/02/14 3.18 Babel switching mechanism
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel-german/ngerman.ldf
+Language: ngerman 2018/03/29 v2.10 German support for babel (post-1996 orthogra
+phy)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel-german/ngermanb.ldf
+Language: ngermanb 2018/03/29 v2.10 German support for babel (post-1996 orthogr
+aphy)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2018/02/14 3.18 Babel common definitions
+\babel@savecnt=\count282
+\U@D=\dimen103
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count283
+)
+Package babel Info: Making " an active character on input line 121.
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen104
+\captionmargin@=\dimen105
+\captionwidth=\dimen106
+\caption@tempdima=\dimen107
+\caption@indent=\dimen108
+\caption@parindent=\dimen109
+\caption@hangindent=\dimen110
+)
+\c@ContinuedFloat=\count284
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/04/07 v2.4g Tabular extension package (FMi)
+\col@sep=\dimen111
+\ar@mcellbox=\box26
+\extrarowheight=\dimen112
+\NC@list=\toks18
+\extratabsurround=\skip65
+\backup@length=\skip66
+\ar@cellbox=\box27
+)
+\TX@col@width=\dimen113
+\TX@old@table=\dimen114
+\TX@old@col=\dimen115
+\TX@target=\dimen116
+\TX@delta=\dimen117
+\TX@cols=\count285
+\TX@ftn=\toks19
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count286
+\lst@gtempboxa=\box28
+\lst@token=\toks20
+\lst@length=\count287
+\lst@currlwidth=\dimen118
+\lst@column=\count288
+\lst@pos=\count289
+\lst@lostspace=\dimen119
+\lst@width=\dimen120
+\lst@newlines=\count290
+\lst@lineno=\count291
+\lst@maxwidth=\dimen121
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count292
+\lst@skipnumbers=\count293
+\lst@framebox=\box29
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen122
+\Gin@req@width=\dimen123
+)
+(./picins.sty Option `picins' Version 3.0 Sep. 1992, TH Darmstadt/HRZ
+\@BILD=\box30
+\@TEXT=\box31
+\d@breite=\dimen124
+\d@hoehe=\dimen125
+\d@xoff=\dimen126
+\d@yoff=\dimen127
+\d@shad=\dimen128
+\d@dash=\dimen129
+\d@boxl=\dimen130
+\d@pichskip=\dimen131
+\d@tmp=\dimen132
+\d@tmpa=\dimen133
+\d@bskip=\dimen134
+\hsiz@=\dimen135
+\p@getot@l=\dimen136
+\c@breite=\count294
+\c@hoehe=\count295
+\c@xoff=\count296
+\c@yoff=\count297
+\c@pos=\count298
+\c@shad=\count299
+\c@dash=\count300
+\c@boxl=\count301
+\c@zeilen=\count302
+\@changemode=\count303
+\c@piccaption=\count304
+\c@piccaptionpos=\count305
+\c@picpos=\count306
+\c@whole=\count307
+\c@half=\count308
+\c@tmp=\count309
+\c@tmpa=\count310
+\c@tmpb=\count311
+\c@tmpc=\count312
+\c@tmpd=\count313
+\d@leftskip=\skip67
+\ptoti=\dimen137
+\ptotii=\dimen138
+\env@box=\box32
+\d@envdp=\dimen139
+\c@hsize=\count314
+\c@envdp=\count315
+\d@envb=\dimen140
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen141
+\WF@size=\dimen142
+\c@WF@wrappedlines=\count316
+\WF@box=\box33
+\WF@everypar=\toks21
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen143
+\Hy@linkcounter=\count317
+\Hy@pagecounter=\count318
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count319
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count320
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen144
+\Fld@menulength=\count321
+\Field@Width=\dimen145
+\Fld@charsize=\dimen146
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring OFF on input line 6389.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count322
+\c@Item=\count323
+\c@Hfootnote=\count324
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+\Fld@listcount=\count325
+\c@bookmark@seq@number=\count326
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip68
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip69
+\f@nch@O@elh=\skip70
+\f@nch@O@erh=\skip71
+\f@nch@O@olh=\skip72
+\f@nch@O@orh=\skip73
+\f@nch@O@elf=\skip74
+\f@nch@O@erf=\skip75
+\f@nch@O@olf=\skip76
+\f@nch@O@orf=\skip77
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/eurosym/eurosym.sty
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box34
+)
+Package biblatex Info: Trying to load language 'ngerman'...
+Package biblatex Info: ... file 'ngerman.lbx' found.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/lbx/ngerman.lbx
+File: ngerman.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/lbx/german.lbx
+File: german.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/lbx/german.lbx
+File: german.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
+))
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+
+(./doc.aux)
+\openout1 = `doc.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout4 = `doc.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'doc.bbl' found.
+ (./doc.bbl)
+Package biblatex Info: Reference section=0 on input line 46.
+Package biblatex Info: Reference segment=0 on input line 46.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: picins package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count327
+
+(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count328
+\scratchdimen=\dimen147
+\scratchbox=\box35
+\nofMPsegments=\count329
+\nofMParguments=\count330
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count331
+\MPscratchDim=\dimen148
+\MPnumerator=\count332
+\makeMPintoPDFobject=\count333
+\everyMPtoPDFconversion=\toks23
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box36
+Package hyperref Info: Link coloring OFF on input line 46.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count334
+)
+LaTeX Info: Redefining \ref on input line 46.
+LaTeX Info: Redefining \pageref on input line 46.
+LaTeX Info: Redefining \nameref on input line 46.
+
+(./doc.out) (./doc.out)
+\@outlinefile=\write5
+\openout5 = `doc.out'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 55.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 55.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 55.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 55.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 55.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 55.
+ [1
+
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./doc.
+toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 6.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 60.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 60.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 60.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 60.
+[2])
+\tf@toc=\write6
+\openout6 = `doc.toc'.
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 60.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 60.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 60.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 60.
+ [3] (./vorwort.tex
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 8.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 8.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 14.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 14.
+
+Overfull \hbox (2.82094pt too wide) in paragraph at lines 15--18
+\OT1/cmr/m/n/12 Schnittstelle und die Kon-fi-gu-ra-ti-on des ES-Pboards []ubern
+immt Mi-cha-el Kainz. 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 18.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 18.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 18.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 18.
+[4]
+<silas/blockschaltbild.jpg, id=252, 391.96437pt x 202.7575pt>
+File: silas/blockschaltbild.jpg Graphic file (type jpg)
+<use silas/blockschaltbild.jpg>
+Package pdftex.def Info: silas/blockschaltbild.jpg  used on input line 21.
+(pdftex.def)             Requested size: 390.0pt x 201.7546pt.
+) (./silas/silas.tex
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+ [5 <./silas/blockschaltbild.jpg>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 6.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 6.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 8.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 8.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 47.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 47.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 47.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 47.
+ [6]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 68.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 68.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 80.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 80.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 80.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 80.
+ [7]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 81.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 81.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 83.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 83.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 114.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 125.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 125.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 125.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 125.
+ [8]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 126.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 126.
+<silas/verteiler1.png, id=279, 858.20625pt x 438.63875pt>
+File: silas/verteiler1.png Graphic file (type png)
+<use silas/verteiler1.png>
+Package pdftex.def Info: silas/verteiler1.png  used on input line 130.
+(pdftex.def)             Requested size: 390.0pt x 199.33328pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 147.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 147.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 147.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 147.
+ [9 <./silas/verteiler1.png>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 148.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 148.
+<silas/versorgung1.png, id=291, 1078.0275pt x 618.31pt>
+File: silas/versorgung1.png Graphic file (type png)
+<use silas/versorgung1.png>
+Package pdftex.def Info: silas/versorgung1.png  used on input line 152.
+(pdftex.def)             Requested size: 390.0pt x 223.68584pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 169.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 169.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 169.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 169.
+ [10 <./silas/versorgung1.png>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 170.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 170.
+<silas/gehause.jpg, id=298, 4175.6pt x 3131.7pt>
+File: silas/gehause.jpg Graphic file (type jpg)
+<use silas/gehause.jpg>
+Package pdftex.def Info: silas/gehause.jpg  used on input line 190.
+(pdftex.def)             Requested size: 390.0pt x 292.49709pt.
+) (./dennis/dennis.tex
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+
+[11]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+ [12 <./silas/gehause.jpg>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 5.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 6.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 6.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 12.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 12.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 33.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 33.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 33.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 33.
+ [13]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 34.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 34.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 47.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 47.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 48.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 48.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 66.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 66.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 66.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 66.
+ [14]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 67.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 67.
+<dennis/schaltplan.png, id=318, 1171.9785pt x 544.434pt>
+File: dennis/schaltplan.png Graphic file (type png)
+<use dennis/schaltplan.png>
+Package pdftex.def Info: dennis/schaltplan.png  used on input line 74.
+(pdftex.def)             Requested size: 390.0pt x 181.1674pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 107.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 107.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 107.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 107.
+ [15 <./dennis/schaltplan.png>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 108.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 108.
+<dennis/trocken.png, id=327, 667.89525pt x 419.166pt>
+File: dennis/trocken.png Graphic file (type png)
+<use dennis/trocken.png>
+Package pdftex.def Info: dennis/trocken.png  used on input line 120.
+(pdftex.def)             Requested size: 390.0pt x 244.7666pt.
+<dennis/feucht.png, id=328, 667.89525pt x 419.166pt>
+File: dennis/feucht.png Graphic file (type png)
+<use dennis/feucht.png>
+Package pdftex.def Info: dennis/feucht.png  used on input line 127.
+(pdftex.def)             Requested size: 390.0pt x 244.7666pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 130.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 130.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 130.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 130.
+
+[16]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 131.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 131.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 132.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 132.
+<dennis/kond1.png, id=335, 271.0125pt x 215.00325pt>
+File: dennis/kond1.png Graphic file (type png)
+<use dennis/kond1.png>
+Package pdftex.def Info: dennis/kond1.png  used on input line 146.
+(pdftex.def)             Requested size: 157.94785pt x 125.30888pt.
+
+Underfull \hbox (badness 1342) in paragraph at lines 147--147
+[]\OT1/cmr/m/n/12 Abbildung 10: |Kon-den-sa-tor-plat-
+ []
+
+<dennis/kond2.png, id=336, 268.00125pt x 215.00325pt>
+File: dennis/kond2.png Graphic file (type png)
+<use dennis/kond2.png>
+Package pdftex.def Info: dennis/kond2.png  used on input line 151.
+(pdftex.def)             Requested size: 157.94785pt x 126.71301pt.
+
+Underfull \hbox (badness 1342) in paragraph at lines 152--152
+[]\OT1/cmr/m/n/12 Abbildung 11: |Kon-den-sa-tor-plat-
+ []
+
+<dennis/layout2.png, id=338, 1157.5245pt x 332.442pt>
+File: dennis/layout2.png Graphic file (type png)
+<use dennis/layout2.png>
+Package pdftex.def Info: dennis/layout2.png  used on input line 162.
+(pdftex.def)             Requested size: 390.0pt x 112.00917pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 176.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 176.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 176.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 176.
+[17 <./dennis/trocken.png>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 176.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 176.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 176.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 176.
+ [18 <./dennis/feucht.png>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 176.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 176.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 176.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 176.
+ [19 <./dennis/kond1.png> <./dennis/kond2.png> <./dennis/layout2.png>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 177.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 177.
+<dennis/layout1.png, id=357, 1156.92226pt x 657.05475pt>
+File: dennis/layout1.png Graphic file (type png)
+<use dennis/layout1.png>
+Package pdftex.def Info: dennis/layout1.png  used on input line 180.
+(pdftex.def)             Requested size: 390.0pt x 221.49075pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 204.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 204.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 204.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 204.
+ [20 <./dennis/layout1.png>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 205.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 205.
+<dennis/layout.png, id=364, 1671.24374pt x 1829.6355pt>
+File: dennis/layout.png Graphic file (type png)
+<use dennis/layout.png>
+Package pdftex.def Info: dennis/layout.png  used on input line 208.
+(pdftex.def)             Requested size: 195.0pt x 213.46068pt.
+)
+(./marcel/marcel.tex
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+ [21 <./dennis/layout.png>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+ [22]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 5.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 6.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 6.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 11.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 11.
+<marcel/AutWatering.jpg, id=374, 887.315pt x 490.83376pt>
+File: marcel/AutWatering.jpg Graphic file (type jpg)
+<use marcel/AutWatering.jpg>
+Package pdftex.def Info: marcel/AutWatering.jpg  used on input line 18.
+(pdftex.def)             Requested size: 390.0pt x 215.73534pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 56.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 56.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 56.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 56.
+ [23 <./marcel/AutWatering.jpg>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 58.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 58.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 58.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 58.
+ [24]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 58.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 58.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 58.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 58.
+ [25]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 59.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 59.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 87.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 87.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 106.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 106.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 106.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 106.
+ [26]
+Overfull \hbox (6.67291pt too wide) in paragraph at lines 108--115
+[][][] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 116.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 116.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 116.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 116.
+[27]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 117.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 117.
+<marcel/algo.png, id=412, 205.9695pt x 563.706pt>
+File: marcel/algo.png Graphic file (type png)
+<use marcel/algo.png>
+Package pdftex.def Info: marcel/algo.png  used on input line 120.
+(pdftex.def)             Requested size: 117.00119pt x 320.20616pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 140.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 140.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 140.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 140.
+ [28 <./marcel/algo.png>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 141.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 141.
+<marcel/ablauf.jpg, id=419, 191.0337pt x 282.8166pt>
+File: marcel/ablauf.jpg Graphic file (type jpg)
+<use marcel/ablauf.jpg>
+Package pdftex.def Info: marcel/ablauf.jpg  used on input line 144.
+(pdftex.def)             Requested size: 350.99762pt x 519.63797pt.
+) (./mikey/esp.tex
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2.
+ [29]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2.
+ [30 <./marcel/ablauf.jpg>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 5.
+<images/flow.png, id=429, 507.8975pt x 548.0475pt>
+File: images/flow.png Graphic file (type png)
+<use images/flow.png>
+Package pdftex.def Info: images/flow.png  used on input line 9.
+(pdftex.def)             Requested size: 390.0pt x 420.84384pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 25.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 25.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 33.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 33.
+) (./mikey/server.tex
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 7.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 7.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 7.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 7.
+ [31]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 7.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 7.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 7.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 7.
+ [32 <./images/flow.png>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 8.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 8.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 18.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 18.
+<images/seite2.png, id=443, 458.71375pt x 493.845pt>
+File: images/seite2.png Graphic file (type png)
+<use images/seite2.png>
+Package pdftex.def Info: images/seite2.png  used on input line 23.
+(pdftex.def)             Requested size: 272.99881pt x 293.92053pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 27.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 27.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 36.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 36.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 36.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 36.
+ [33]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 37.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 37.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 49.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 49.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 49.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 49.
+ [34 <./images/seite2.png>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 49.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 49.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 67.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 67.
+) (./mikey/comm.tex
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 6.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 6.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 6.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 6.
+ [35]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 7.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 7.
+) (./fazit.tex
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+ [36]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 4.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 4.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 42.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 42.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 42.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 42.
+ [37])
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 71.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 71.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 71.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 71.
+ [38]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 73.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 73.
+ (./doc.lof)
+\tf@lof=\write7
+\openout7 = `doc.lof'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 76.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 76.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 76.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 76.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 76.
+ [39
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 76.
+
+(./doc.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 76.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 76.
+Package rerunfilecheck Info: File `doc.out' has not changed.
+(rerunfilecheck)             Checksum: 95BB13E3D416BE8774B340C5BA61147E;3088.
+Package logreq Info: Writing requests to 'doc.run.xml'.
+\openout1 = `doc.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 15906 strings out of 492649
+ 261124 string characters out of 6129622
+ 764647 words of memory out of 5000000
+ 19443 multiletter control sequences out of 15000+600000
+ 9609 words of font info for 35 fonts, out of 8000000 for 9000
+ 1143 hyphenation exceptions out of 8191
+ 36i,12n,43p,1204b,2180s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
+/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
+sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
+ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/loc
+al/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/
+texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/tex
+live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
+ive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texliv
+e/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive
+/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/
+2018/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb>
+Output written on doc.pdf (39 pages, 6341263 bytes).
+PDF statistics:
+ 573 PDF objects out of 1000 (max. 8388607)
+ 490 compressed objects within 5 object streams
+ 116 named destinations out of 1000 (max. 500000)
+ 446 words of extra memory for PDF output out of 10000 (max. 10000000)
+

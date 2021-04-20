@@ -1,0 +1,50 @@
+\newpage
+\fancyhf{}
+\rhead{Seite \thepage}
+\section{Fazit}
+Der Aufbau der Wasserversorgung war kniffliger als anfangs erwartet. Vor allem das
+Auffinden der richtigen Fittings für die Gewinde mit den richtigen Durchmessern
+stellte sich als Problem heraus. Nachdem die Probleme behoben waren,
+funktionierte die geplante Versorgung aber einwandfrei und erfüllt die gestellten Anforderungen. 
+Beim Aufbau der Energieversorgung ergaben sich nur Probleme beim Löten. So war der DC/DC-Wandler
+mit seinen dünnen Stiften schwer einzulöten. Die geplante Schaltung verrichtet ihren Dienst, wie
+erwartet. Im Nachhinein fallen noch
+vergessene Details auf. So wäre ein Schalter für den Strom außen am Gehäuse von Vorteil gewesen.
+Im Moment geht das System an, wenn das Netzteil eingesteckt wird. Auch das Verwenden von direkt
+angelöteten Kabeln hat sich als nicht so
+vorteilhaft herausgestellt. Steckerleisten wären wesentlich einfacher zu handhaben gewesen. Auch
+die Ordnung im Elektrikkasten hätte sich dadurch erhöht.
+Das Gehäuse ist für einen Prototypen vollkommen in Ordnung. Anpassbar wären noch passende Löcher
+für Schalter und Steckerbuchsen.
+
+Es  wäre  sinnvoller  gewesen,  die  Stromverteiler-  und
+Leistungsschaltungsplatine  zu  kombinieren.  Dadurch  hätten  einige
+Kabelverbindungen  weggelassen  werden  können  und  die  Übersicht
+im  Elektronikkasten  verbessert  werden.  Um  den  Zusammenbau  und
+die  Verkabelung  der  einzelnen  Platinen  zu  verbessern  wäre  es
+hilfreich  gewesen,  nicht  alle  Kabel  fest  an  die  Platine  zu  löten,
+sondern  alle  Verbindungen  mit  Hilfe  von  Stiftleisten  zu  realisieren.
+So  hätten  beim  Zusammenbau  nur  die  Kabel  in  die  richtige  Stiftleiste
+gesteckt  und  nicht  jedes  einzelne  Kabel  verlötet  werden  müssen.  Am
+Ende  wurde  das  verlöten  der  Kabel  recht  umständlich,  da  das  Erreichen
+der  Lötstelle  durch  die  vielen  bereits  vorhandenen  Kabel  erschwert  wird.
+Zusätzlich  macht  dies  auch  eine  Reparatur  der  Platine  einfacher,  da  nur
+alle  Kabel  abgezogen  und  nicht  abgelötet  werden  müssen.  Auch  hätte  die
+die  Konstantanspannungsquelle  auf  den  Sensorplatinen  weggelassen  werden
+können,  da  wir  die  Spannungsversorgung  mit  5V  extern  realisiert  haben.
+
+Man sollte sich immer einen Überblick über die verfügbaren Pins des
+Mikrocontrollers machen, da häufig bestimmte Funktionalitäten und an
+bestimmten Pins verfügbar sind. Um im Nachhinein Pins innerhalb des Programms
+noch zu ändern, sind Variable Adressen gegenüber festen Adressen sinnvoll.
+Bei der Verwendung mehrerer Mikrocontroller ist stets auf ein einheitliches
+Bezugspotential zu achten.
+
+Zu Anfang wäre mehr Erfahrung mit dem ESP8266 sehr hilfreich gewesen.
+Dadurch dass diese mit einer sehr kryptischen Firmware ausgeliefert werden,
+gestalteten sich die ersten Schritte damit als sehr schwer. Doch sobald die alternative
+Firmware geflasht wurde, konnte gut auf Fähigkeiten mit C/C++ zurückgegriffen werden.
+Auch das Debuggen stellte sich als schwieriger als gedacht heraus. Es war kein Debugger
+vorort den man hätte benutzen können, also wurde der Code via Serialausgaben verfolgt.
+Dies ist ähnlich bei der Webseite an sich. Da diese in einem String gespeichert wurde und
+dies die C-typischen Stolpersteinen war das Hinzufügen und Entfernen von Features herausfordernd.

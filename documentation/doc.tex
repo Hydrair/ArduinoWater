@@ -1,0 +1,77 @@
+\documentclass[
+	12pt,
+	a4paper,
+	ngerman,
+	oneside,
+]{article}
+
+\usepackage[utf8]{inputenc}						%Umlaute etc
+\usepackage[style=alphabetic, backend=biber]{biblatex} 	%bibtex
+\usepackage[babel,german=quotes]{csquotes} 			%bibtex
+\addbibresource{literaturverzeichnis.tex} 				%bibtex
+
+\usepackage[ngerman]{babel} 						%Dokument Deutsch
+\usepackage[onehalfspacing]{setspace} 				%Zeilenabstand
+\usepackage{caption} 
+\usepackage{tabularx}							%Tabellen
+\usepackage{listings} 								%Code
+\usepackage{graphicx} 							%Grafiken
+\usepackage{picins}
+\usepackage{wrapfig}
+\usepackage{listings}
+\usepackage[usenames]{color} 						%Farben
+\usepackage[hidelinks]{hyperref} 					%Links in Dokument
+\usepackage{fancyhdr}
+\usepackage[official]{eurosym}
+\lstset{  										%Codesettings
+  basicstyle=\ttfamily\footnotesize,
+  commentstyle=\color{red},
+  keywordstyle=\color{blue},
+  numbers=left,
+  showstringspaces=false,
+  breaklines=true,
+  frame=single,
+  tabsize=2
+}
+\lstdefinelanguage{conf} 							%Extrasettings
+{
+    morecomment=[l]{\#}
+}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Seite \thepage}
+
+
+\begin{document}
+
+
+\begin{titlepage}
+
+  \author{Silas Leidel, Dennis Hufnagel, Marcel Fuchs, Michael Kainz\\\\Betreut von Prof. Dr. Klehn}
+  \title{Automatisierte Bewässerungsanlage für Indoor Pflanzen}
+  \date{\today}
+  \maketitle
+\end{titlepage}
+
+\newpage
+\setcounter{page}{2}
+\tableofcontents
+\newpage
+
+\input{vorwort}
+\input{silas/silas}
+\input{dennis/dennis}
+\input{marcel/marcel}
+\input{mikey/esp}
+\input{mikey/server}
+\input{mikey/comm}
+\input{fazit}
+
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{section}{\listfigurename}
+
+\listoffigures
+\end{document}
+%TODO: Autor in Fusszeile

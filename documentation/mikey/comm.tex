@@ -1,0 +1,22 @@
+\section{Kommunikation}
+Die Kommunikation zwischen dem ESP8266 und dem Arduino Uno erfolgt über UART (Universal Asynchronous Receiver Transmitter).
+Über diese serielle Schnittstelle schickt der ESP8266 Befehle und konfigurierbare Parameter.
+Der Arduino übermittelt Messwerte, die er von den Feuchtigkeitssensoren liest.
+Um das zu ermöglichen wird jeweils der TX Port des einen Controllers mit dem RX Port des anderen verbunden.
+
+\subsection{Funktionen}
+Die verwendeten Nachrichten wurden in \ref{arduinokomm} aufgezeigt.
+Folgende Funktionen ermöglichen die Kommunikation der beiden Mikrocontroller:
+\newline
+
+
+
+\begin{tabular}{|rl|p{5.5cm}|}
+    \hline
+    void & recvWithStartEndMarkers() & Filtert Eingang auf durch $<$ $>$ begrenzte Nachricht.\\\hline
+    void & parseData() & Wertet Nachricht aus und extrahiert String und Integer.\\\hline
+    void & serialHandler() & Verwaltet die extrahierten Daten.\\\hline
+    String & clearFirstEntry(String) & Schiebt den ersten Wert im Array hinaus und füllt es mit dem Neuesten.\\\hline
+    void & sendMessage(String, Int) & Gibt Arduino einen Interrupt, der auf Nachricht wartet.\\\hline
+\end{tabular}
+
