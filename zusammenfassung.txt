@@ -1,9 +1,0 @@
-Marcel:
-Zu meinen Teil: Ansteuerung der Ventile läuft; Routine läuft mit kurzen timer;
- könnt den arduino mit usb strom geben dann seht ihr die leds leuchten, mit der routinen logik.
- Für mich nächster schritt: Auslesen der Sensoren. Anpassung an längeren timer ggf vom ESP
- 
-Dennis:
-Aber zur info. Sensor an sich geht nur des mit der Isoaltion passt noch nicht perfekt.
-Eine schicht Plastik 70(isn isolationsspray) hat nicht gereicht, ich probiers jetzt mitn paar mehr schichten.
-Mit isolierband hats funktioniert
